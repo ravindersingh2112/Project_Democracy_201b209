@@ -6,3 +6,4 @@ Pakistan is a democracy.
 
 
 I am actually the one who not the one .
+i am not the one
