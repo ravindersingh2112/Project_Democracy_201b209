@@ -5,4 +5,4 @@ America is a democracy.
 Pakistan is a democracy.
 
 
-I am not the one .
+I am actually the one who not the one .
