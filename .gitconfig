@@ -1,0 +1,5 @@
+[safe]
+	directory = %(prefix)/
+	directory = %(prefix)///fileserver/ratnesh.tiwari/
+	directory = %(prefix)///fileserver/ratnesh.tiwari/
+	directory = %(prefix)///fileserver/ratnesh.tiwari/
